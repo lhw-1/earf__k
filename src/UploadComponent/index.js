@@ -1,5 +1,4 @@
 import React from 'react';
-import synth from 'synth-js';
 import getMidi from '../scripts/fftCompiler.js';
 import compile from '../scripts/a2bCompiler.js';
 
